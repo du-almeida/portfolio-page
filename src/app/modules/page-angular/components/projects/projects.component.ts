@@ -55,7 +55,7 @@ export class ProjectsComponent {
 
 
   {
-    src: '/assets/img/projects/game.png',
+    src: 'src/assets/img/projects/game.png,
     alt: 'Projeto Jogo da Cobrinha',
     title: 'Jogo Snake',
     width: '150px',
